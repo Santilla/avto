@@ -1,0 +1,15 @@
+@keyframes landscape
+{
+    from {background-position: -1035px 0; }
+    to {background-position: 1035px 0; }
+}
+
+@keyframes wheel {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes trailer {
+    from {transform: scaleY(0.9);}    
+    to {transform: scale(1);}    
+}

@@ -1,0 +1,35 @@
+.cloud{
+    /* animation-name: landscape;
+    animation-duration: 120s;
+    animation-iteration-count: infinite; */
+    animation: landscape 120s infinite linear;
+}
+
+.horizont{
+    /* animation-name: landscape;
+    animation-duration: 35s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; */
+    animation: landscape 35s infinite linear;
+}
+
+.hill{
+    animation: landscape 20s infinite linear;
+}
+
+.grass{
+    animation: landscape 10s infinite linear;
+}
+
+.grass2{
+    animation: landscape 5s infinite linear;
+}
+
+.wheel1, .wheel2{
+    animation: wheel 1s infinite reverse linear;
+}
+
+.trailer{
+    animation: trailer 0.5s infinite linear alternate;
+   
+}
